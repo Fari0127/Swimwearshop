@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+drawable bikini1
+drawable bikini3
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addToCartButton
+id cartButton
+id cartItemsText
+id productImage
+id productImageView
+id productName
+id productNameTextView
+id productPrice
+id productPriceTextView
+id recyclerView
+layout activity_cart
+layout activity_product_detail
+layout activity_product_list
+layout item_product
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id

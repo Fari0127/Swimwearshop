@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985210781245",
+    "project_id": "swimwearshop-a2300",
+    "storage_bucket": "swimwearshop-a2300.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985210781245:android:97eb3c8a3e15e7f2a77454",
+        "android_client_info": {
+          "package_name": "com.example.swimwearshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfboyK0r0cbAG-a6JRzOAqCBsnAJEFjI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

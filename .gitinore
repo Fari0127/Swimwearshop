@@ -1,0 +1,15 @@
+# IDE mappák
+.idea/
+*.iml
+
+# Build fájlok
+/build/
+.gradle/
+
+# Kimeneti fájlok
+*.apk
+
+# OS fájlok
+.DS_Store
+*.log
+*.tmp
