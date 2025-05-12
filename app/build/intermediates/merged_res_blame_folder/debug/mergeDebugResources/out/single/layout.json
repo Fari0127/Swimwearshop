@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.swimwearshop.app-mergeDebugResources-4:/layout/item_product.xml",
+        "source": "com.example.swimwearshop.app-main-7:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-mergeDebugResources-4:/layout/activity_cart.xml",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-mergeDebugResources-4:/layout/activity_register.xml",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-mergeDebugResources-4:/layout/activity_product_list.xml",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-mergeDebugResources-4:/layout/activity_product_detail.xml",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_product_detail.xml"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout_item_product.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout_activity_cart.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout_activity_login.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.swimwearshop.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/anim_fade_in.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout_activity_product_list.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/anim_slide_in_right.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/drawable_bikini3.png.flat",
+        "source": "com.example.swimwearshop.app-main-7:/drawable/bikini3.png"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/drawable_bikini1.png.flat",
+        "source": "com.example.swimwearshop.app-main-7:/drawable/bikini1.png"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.swimwearshop.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout_activity_register.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout/activity_product_detail.xml"
+    }
+]

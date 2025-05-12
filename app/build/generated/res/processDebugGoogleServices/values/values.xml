@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">985210781245</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfboyK0r0cbAG-a6JRzOAqCBsnAJEFjI4</string>
+    <string name="google_app_id" translatable="false">1:985210781245:android:97eb3c8a3e15e7f2a77454</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfboyK0r0cbAG-a6JRzOAqCBsnAJEFjI4</string>
+    <string name="google_storage_bucket" translatable="false">swimwearshop-a2300.firebasestorage.app</string>
+    <string name="project_id" translatable="false">swimwearshop-a2300</string>
+</resources>
