@@ -23,6 +23,7 @@ public class ProductListActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        FirestoreQueries.executeQueries();
         setContentView(R.layout.activity_product_list);
 
         recyclerView = findViewById(R.id.recyclerView);

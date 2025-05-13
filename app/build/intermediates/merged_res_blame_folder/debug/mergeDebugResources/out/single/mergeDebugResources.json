@@ -12,6 +12,10 @@
         "source": "com.example.swimwearshop.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout-land_activity_product_list.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout-land/activity_product_list.xml"
+    },
+    {
         "merged": "com.example.swimwearshop.app-debug-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "com.example.swimwearshop.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
     },
@@ -32,6 +36,10 @@
         "source": "com.example.swimwearshop.app-main-7:/layout/activity_cart.xml"
     },
     {
+        "merged": "com.example.swimwearshop.app-debug-5:/anim_fade_out.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/anim/fade_out.xml"
+    },
+    {
         "merged": "com.example.swimwearshop.app-debug-5:/layout_activity_login.xml.flat",
         "source": "com.example.swimwearshop.app-main-7:/layout/activity_login.xml"
     },
@@ -42,6 +50,10 @@
     {
         "merged": "com.example.swimwearshop.app-debug-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "com.example.swimwearshop.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.swimwearshop.app-debug-5:/layout-sw600dp_activity_product_list.xml.flat",
+        "source": "com.example.swimwearshop.app-main-7:/layout-sw600dp/activity_product_list.xml"
     },
     {
         "merged": "com.example.swimwearshop.app-debug-5:/anim_fade_in.xml.flat",

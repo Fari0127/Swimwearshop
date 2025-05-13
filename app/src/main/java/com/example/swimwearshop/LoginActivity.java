@@ -43,12 +43,13 @@ public class LoginActivity extends AppCompatActivity {
         emailInput = findViewById(R.id.emailInput);
         passwordInput = findViewById(R.id.passwordInput);
         Button loginButton = findViewById(R.id.loginButton);
+        Animation fadeIn = AnimationUtils.loadAnimation(this, R.anim.fade_in);
+        loginButton.startAnimation(fadeIn);
         Button registerRedirect = findViewById(R.id.toRegisterButton);
 
         mAuth = FirebaseAuth.getInstance();
 
         // Animációk
-        Animation fadeIn = AnimationUtils.loadAnimation(this, R.anim.fade_in);
         Animation slideIn = AnimationUtils.loadAnimation(this, R.anim.slide_in_right);
         emailInput.startAnimation(fadeIn);
         loginButton.startAnimation(slideIn);
@@ -76,6 +77,9 @@ public class LoginActivity extends AppCompatActivity {
                         showLoginNotification();
                         setDailyReminder();
                         startActivity(new Intent(LoginActivity.this, ProductListActivity.class));
+                    showNotification();
+                    setLoginReminder();
+
                         finish();
                     } else {
                         Toast.makeText(this, "Sikertelen bejelentkezés", Toast.LENGTH_SHORT).show();
@@ -157,4 +161,27 @@ public class LoginActivity extends AppCompatActivity {
     }
 
 
+
+    private void showNotification() {
+        String channelId = "login_channel";
+        NotificationManager manager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            NotificationChannel channel = new NotificationChannel(channelId, "Login Channel", NotificationManager.IMPORTANCE_DEFAULT);
+            manager.createNotificationChannel(channel);
+        }
+        Notification notification = new NotificationCompat.Builder(this, channelId)
+                .setContentTitle("Üdv újra!")
+                .setContentText("Sikeres bejelentkezés a SwimwearShop-ba.")
+                .setSmallIcon(R.drawable.ic_launcher_foreground)
+                .build();
+        manager.notify(1, notification);
+    }
+
+    private void setLoginReminder() {
+        Intent intent = new Intent(this, ReminderReceiver.class);
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(this, 0, intent, PendingIntent.FLAG_IMMUTABLE);
+        AlarmManager alarmManager = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
+        long triggerAt = System.currentTimeMillis() + 60000; // 1 perc múlva
+        alarmManager.set(AlarmManager.RTC_WAKEUP, triggerAt, pendingIntent);
+    }
 }

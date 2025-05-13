@@ -169,6 +169,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Androidproject\\SwimwearShop-GitReady\\app\\src\\main\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "50",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "1979",
+                        "startColumns": "4",
+                        "startOffsets": "131296",
+                        "endColumns": "50",
+                        "endOffsets": "131342"
+                    }
+                },
+                {
                     "source": "C:\\Users\\farka\\.gradle\\caches\\8.10\\transforms\\9286d7f672929bd2ecd346f7841e71df\\transformed\\jetified-startup-runtime-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -183,23 +200,6 @@
                         "startOffsets": "131213",
                         "endColumns": "82",
                         "endOffsets": "131291"
-                    }
-                },
-                {
-                    "source": "C:\\Androidproject\\Swimwearshop-main\\app\\src\\main\\res\\values\\string.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "50",
-                        "endOffsets": "62"
-                    },
-                    "to": {
-                        "startLines": "1979",
-                        "startColumns": "4",
-                        "startOffsets": "131296",
-                        "endColumns": "50",
-                        "endOffsets": "131342"
                     }
                 },
                 {
@@ -238,6 +238,23 @@
                         "endLines": "506,1114,1115,1116,1124,1125,1126,1811,12639",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66970,67018,67074,67760,67836,67908,121016,767072"
+                    }
+                },
+                {
+                    "source": "C:\\Androidproject\\SwimwearShop-GitReady\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,137,241,350,470,580",
+                        "endColumns": "81,103,108,119,109,78",
+                        "endOffsets": "132,236,345,465,575,654"
+                    },
+                    "to": {
+                        "startLines": "2020,2021,2022,2023,2024,2139",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "136207,136289,136393,136502,136622,153413",
+                        "endColumns": "81,103,108,119,109,78",
+                        "endOffsets": "136284,136388,136497,136617,136727,153487"
                     }
                 },
                 {
@@ -312,23 +329,6 @@
                         "startOffsets": "120834,120874,122006,122230,122285,123781,123835,123887,123936,123997",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "120869,120916,122044,122280,122327,123830,123882,123931,123992,124042"
-                    }
-                },
-                {
-                    "source": "C:\\Androidproject\\Swimwearshop-main\\app\\build\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,137,241,350,470,580",
-                        "endColumns": "81,103,108,119,109,78",
-                        "endOffsets": "132,236,345,465,575,654"
-                    },
-                    "to": {
-                        "startLines": "2020,2021,2022,2023,2024,2139",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "136207,136289,136393,136502,136622,153413",
-                        "endColumns": "81,103,108,119,109,78",
-                        "endOffsets": "136284,136388,136497,136617,136727,153487"
                     }
                 },
                 {

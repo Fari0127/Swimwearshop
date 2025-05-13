@@ -1,4 +1,4 @@
-com.example.swimwearshop.test.app-androidTest-0 C:\Androidproject\Swimwearshop-main\app\build\generated\res\resValues\androidTest\debug
-com.example.swimwearshop.test.app-mergeDebugAndroidTestResources-1 C:\Androidproject\Swimwearshop-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.swimwearshop.test.app-mergeDebugAndroidTestResources-2 C:\Androidproject\Swimwearshop-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.swimwearshop.test.app-debugAndroidTest-3 C:\Androidproject\Swimwearshop-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.swimwearshop.test.app-androidTest-0 C:\Androidproject\SwimwearShop-GitReady\app\build\generated\res\resValues\androidTest\debug
+com.example.swimwearshop.test.app-mergeDebugAndroidTestResources-1 C:\Androidproject\SwimwearShop-GitReady\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.swimwearshop.test.app-mergeDebugAndroidTestResources-2 C:\Androidproject\SwimwearShop-GitReady\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.swimwearshop.test.app-debugAndroidTest-3 C:\Androidproject\SwimwearShop-GitReady\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

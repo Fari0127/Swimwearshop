@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import java.util.List;
+import android.widget.Toast;
+
 
 public class CartActivity extends AppCompatActivity {
     @Override
@@ -24,5 +26,11 @@ public class CartActivity extends AppCompatActivity {
         builder.append("\nTotal: $").append(total);
 
         cartItemsText.setText(builder.toString());
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Toast.makeText(this, "Kosár mentése folyamatban...", Toast.LENGTH_SHORT).show();
     }
 }

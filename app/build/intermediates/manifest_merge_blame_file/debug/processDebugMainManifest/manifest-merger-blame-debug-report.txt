@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-11-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:4:5-77
-11-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:4:22-74
+11-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:4:5-77
+11-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:4:22-74
 12
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14" /> -->
@@ -48,66 +48,66 @@
 27-->[androidx.core:core:1.9.0] C:\Users\farka\.gradle\caches\8.10\transforms\d8b042657c1462a92d63fb45e44bf4b0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 28
 29    <application
-29-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:6:5-34:19
+29-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:6:5-34:19
 30        android:allowBackup="true"
-30-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:7:9-35
+30-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:7:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.9.0] C:\Users\farka\.gradle\caches\8.10\transforms\d8b042657c1462a92d63fb45e44bf4b0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 32        android:debuggable="true"
 33        android:extractNativeLibs="false"
 34        android:icon="@mipmap/ic_launcher"
-34-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:8:9-43
+34-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:8:9-43
 35        android:label="@string/app_name"
-35-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:9:9-41
+35-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:9:9-41
 36        android:supportsRtl="true"
-36-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:10:9-35
+36-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:10:9-35
 37        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-37-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:11:9-65
+37-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:11:9-65
 38        <receiver android:name="com.example.swimwearshop.ReminderReceiver" />
-38-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:12:9-54
-38-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:12:19-51
+38-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:12:9-54
+38-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:12:19-51
 39
 40        <activity
-40-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:15:9-21:20
+40-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:15:9-21:20
 41            android:name="com.example.swimwearshop.ProductListActivity"
-41-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:15:19-54
+41-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:15:19-54
 42            android:exported="true" >
-42-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:16:13-36
+42-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:16:13-36
 43            <intent-filter>
-43-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:17:13-20:29
+43-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:17:13-20:29
 44                <action android:name="android.intent.action.MAIN" />
-44-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:18:17-69
-44-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:18:25-66
+44-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:18:17-69
+44-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:18:25-66
 45
 46                <category android:name="android.intent.category.LAUNCHER" />
-46-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:19:17-77
-46-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:19:27-74
+46-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:19:17-77
+46-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:19:27-74
 47            </intent-filter>
 48        </activity>
 49        <activity android:name="com.example.swimwearshop.ProductDetailActivity" />
-49-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:22:9-58
-49-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:22:19-56
+49-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:22:9-58
+49-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:22:19-56
 50        <activity android:name="com.example.swimwearshop.CartActivity" />
-50-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:23:9-49
-50-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:23:19-47
+50-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:23:9-49
+50-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:23:19-47
 51        <activity android:name="com.example.swimwearshop.RegisterActivity" />
-51-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:24:9-54
-51-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:24:19-51
+51-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:24:9-54
+51-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:24:19-51
 52        <activity
-52-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:25:9-32:20
+52-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:25:9-32:20
 53            android:name="com.example.swimwearshop.LoginActivity"
-53-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:26:13-42
+53-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:26:13-42
 54            android:exported="true" >
-54-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:27:13-36
+54-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:27:13-36
 55            <intent-filter>
-55-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:17:13-20:29
+55-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:17:13-20:29
 56                <action android:name="android.intent.action.MAIN" />
-56-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:18:17-69
-56-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:18:25-66
+56-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:18:17-69
+56-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:18:25-66
 57
 58                <category android:name="android.intent.category.LAUNCHER" />
-58-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:19:17-77
-58-->C:\Androidproject\Swimwearshop-main\app\src\main\AndroidManifest.xml:19:27-74
+58-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:19:17-77
+58-->C:\Androidproject\SwimwearShop-GitReady\app\src\main\AndroidManifest.xml:19:27-74
 59            </intent-filter>
 60        </activity>
 61
